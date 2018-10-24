@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+aljksfkajslkfbjdsh
+git cherry-pick example
+>>>>>>> 60c7581... Update c.txt
